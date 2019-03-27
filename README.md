@@ -63,3 +63,5 @@ nodejs
 Successfully create .gitignore
 Please check /Users/koji.kanao/Desktop/genignore
 ```
+
+![result](https://github.com/koji/genigore/blob/master/result.png)
