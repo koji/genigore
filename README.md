@@ -2,9 +2,16 @@
 genignore is a cli tool to create `.gitignore` file with one line command.
 
 
+## install
+```zsh
+$ git clone https://github.com/koji/genigore.git
+$ npm link
+```
+This package will be published soon
+
 ### help command
 ```zsh
-$ genignore                                                                                 koji.kanao@10-17-85-16
+$ genignore
 
     genignore [command] <options>
 
