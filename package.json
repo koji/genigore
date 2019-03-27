@@ -1,0 +1,25 @@
+{
+  "name": "genignore",
+  "version": "0.1.0",
+  "description": "generate .gitignore file with one line command",
+  "scripts": {},
+  "homepage": "https://github.com/timberio/outside-cli#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timberio/outside-cli.git"
+  },
+  "engines": {
+    "node": ">=8"
+  },
+  "bin": {
+    "genignore": "bin/genignore"
+  },
+  "keywords": ["git", "gitignore", "cli", "tool"],
+  "preferGlobal": true,
+  "author": "Koji Kanao",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "minimist": "^1.2.0"
+  }
+}
