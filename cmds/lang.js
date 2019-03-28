@@ -20,7 +20,7 @@ const readFileAndCreateGitignore = (fileName) => {
         if (err) {
           console.log(colors.red.underline(`writing file - something wrong: ${err}`));
         } else {
-          console.log(colors.rainbow("Successfully create .gitignore"));
+          console.log(colors.rainbow(`Successfully created .gitignore for ${fileName}`));
           console.log(colors.green.underline(`Please check ${cwd}`));
         }
       });
