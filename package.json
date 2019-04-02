@@ -1,12 +1,12 @@
 {
-  "name": "genignore",
-  "version": "0.1.0",
+  "name": "@kojikanao/gengitignore",
+  "version": "0.0.2",
   "description": "generate .gitignore file with one line command",
   "scripts": {},
-  "homepage": "https://github.com/timberio/outside-cli#readme",
+  "homepage": "https://github.com/koji/gengitignore",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/timberio/outside-cli.git"
+    "url": "https://github.com/koji/gengitignore.git"
   },
   "engines": {
     "node": ">=8"
