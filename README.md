@@ -3,6 +3,7 @@ genignore is a cli tool to create `.gitignore` file with one line command.
 
 
 ## install
+`via npm`
 ```
 $ npm i @kojikanao/gengitignore
 ```
