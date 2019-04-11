@@ -1,7 +1,7 @@
 # genigore
+[![npm version](http://img.shields.io/npm/v/REPO.svg?style=flat)](https://www.npmjs.com/package/@kojikanao/gengitignore)     
 genignore is a cli tool to create `.gitignore` file with one line command.
 
-[![npm version](http://img.shields.io/npm/v/REPO.svg?style=flat)](https://www.npmjs.com/package/@kojikanao/gengitignore "View this project on npm")
 ## install
 `via npm`
 ```
