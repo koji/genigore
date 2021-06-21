@@ -3,9 +3,14 @@
 genignore is a cli tool to create `.gitignore` file with one line command.
 
 ## install
-`via npm`
+`via yarn`
+```zsh
+$ yarn global add @kojikanao/gengitignore
 ```
-$ npm i @kojikanao/gengitignore
+
+`via npm`
+```zsh
+$ npm i -g @kojikanao/gengitignore
 ```
 
 `via gitclone`
@@ -13,7 +18,10 @@ $ npm i @kojikanao/gengitignore
 $ git clone https://github.com/koji/genigore.git
 $ npm link
 ```
-This package will be published soon
+
+## Use without installing
+
+
 
 ### help command
 ```zsh
